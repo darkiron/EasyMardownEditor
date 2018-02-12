@@ -1,0 +1,23 @@
+{
+  "name": "easymardowneditor",
+  "version": "1.0.0",
+  "description": "Markdown edotor for vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkiron/EasyMardownEditor.git"
+  },
+  "keywords": [
+    "markdown",
+    "vuejs"
+  ],
+  "author": "Vincent sharpen @darkiron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkiron/EasyMardownEditor/issues"
+  },
+  "homepage": "https://github.com/darkiron/EasyMardownEditor#readme"
+}

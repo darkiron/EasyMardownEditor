@@ -5,7 +5,7 @@
       </toolbar-button>
 
     </div>
-    <textarea class="editor" @input="send"> {{ value }}</textarea>
+    <textarea class="editor" @input="send"> {{ value }} </textarea>
   </div>
 </template>
 
