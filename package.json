@@ -1,5 +1,5 @@
 {
-  "name": "easymardowneditor",
+  "name": "easymarkdowneditor",
   "version": "1.0.1",
   "description": "Markdown editor for vuejs",
   "main": "index.js",
