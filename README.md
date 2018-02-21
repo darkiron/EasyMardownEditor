@@ -1,4 +1,4 @@
-# EasyMardownEditor
+# EasyMarkdownEditor
 
 ## Description 
 
@@ -35,7 +35,6 @@ import the component from node-module:
   ```html
    <markdown-editor v-model="data" ></markdown-editor>
   ```
-
 
 ### About :
 
