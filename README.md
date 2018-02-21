@@ -15,7 +15,7 @@ run :`npm -i easymarkdowneditor`
 import the component from node-module:
 
 ```javascript
- import editor from 'eastmarkdowneditor'
+ import editor from 'easymarkdowneditor'
 
  // Global registration :
  Vue.component('markdown-editor', editor)
@@ -30,7 +30,7 @@ import the component from node-module:
   })
   ```
 
-  and use `<editor>` directive in your form template : 
+  and use `<markdown-editor>` directive in your form template : 
 
   ```html
    <markdown-editor v-model="data" ></markdown-editor>
@@ -41,7 +41,7 @@ import the component from node-module:
 
 ### Version 
 
-1.0.0
+1.0.1
 
 ### Liscence 
 
