@@ -4,6 +4,10 @@
 
 Simple Markdown editor for vuejs
 
+## Demo
+
+['try on codesandbox'](https://codesandbox.io/s/kklm9zkzn3?autoresize=1&module=)
+
 ## Getting Started :
 
 ### installation
@@ -38,14 +42,14 @@ import the component from node-module:
 
 ### About :
 
-### Version 
+#### Version 
 
 1.0.2
 
-### Dependency
+#### Dependency
 
 Font-awesome
 
-### Liscence 
+#### Liscence 
 
 MIT 
