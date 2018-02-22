@@ -8,14 +8,14 @@ Simple Markdown editor for vuejs
 
 ### installation
 
-run :`npm -i easymarkdowneditor`
+run :`npm i -D easymarkdowneditor`
 
 ### use
 
 import the component from node-module:
 
 ```javascript
- import editor from 'easymarkdowneditor'
+ import editor from 'easymarkdowneditor/easymarkdown'
 
  // Global registration :
  Vue.component('markdown-editor', editor)
@@ -40,7 +40,11 @@ import the component from node-module:
 
 ### Version 
 
-1.0.1
+1.0.2
+
+### Dependency
+
+Font-awesome
 
 ### Liscence 
 
