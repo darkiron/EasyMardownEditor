@@ -6,7 +6,7 @@ Simple Markdown editor for vuejs
 
 ## Demo
 
-['try on codesandbox'](https://codesandbox.io/s/kklm9zkzn3?autoresize=1&module=)
+[try on codesandbox](https://codesandbox.io/s/kklm9zkzn3)
 
 ## Getting Started :
 
