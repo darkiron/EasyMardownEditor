@@ -44,7 +44,7 @@ import the component from node-module:
 
 #### Version 
 
-1.0.2
+1.1.0
 
 #### Dependency
 
